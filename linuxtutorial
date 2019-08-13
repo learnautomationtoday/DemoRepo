@@ -1,0 +1,3 @@
+ls -ltr
+ls -a
+eccho "demo sucessful"
